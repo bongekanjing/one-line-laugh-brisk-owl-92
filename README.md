@@ -12,13 +12,13 @@ Bounty page: <https://make.fun/bounty/u-ronigrv-the-one-line-laugh-7ccca46f>
 ## The line
 
 > My mother has started labelling her belongings with our names; the good
-> scissors just say "you always borrow these".
+> scissors just say "yours, apparently".
 
 The setup is ordinary and a little sad — an ageing parent assigning things,
 which readers brace for as a decline story. The turn is that she is not
-forgetting who her children are. She is prosecuting them. The label is a
-verdict, and the thing she chose to label is the good scissors, the object
-that has caused forty years of family grievance.
+forgetting who her children are. She is prosecuting them. Two words carry the
+whole verdict, and she chose to level it at the good scissors: the object that
+has caused forty years of family grievance.
 
 It works on the three things the brief weighs: the surprise is at the end and
 still makes sense (she knows exactly who takes them); the everyday truth is

@@ -10,10 +10,11 @@ import json
 import os
 
 LINE = ("My mother has started labelling her belongings with our names; "
-        "the good scissors just say \"you always borrow these\".")
+        "the good scissors just say \"yours, apparently\".")
 
 MIN_CHARS = 1
 MAX_CHARS = 200
+MAX_SENTENCES = 1
 
 
 def sentences(text):
@@ -38,9 +39,9 @@ def main():
                          % (length, MIN_CHARS, MAX_CHARS))
     if "\n" in text or "\r" in text:
         raise SystemExit("the line carries a line break")
-    if sentences(text) != 1:
-        raise SystemExit("the line reads as %d sentences, not 1"
-                         % sentences(text))
+    if sentences(text) != MAX_SENTENCES:
+        raise SystemExit("the line reads as %d sentences, not %d"
+                         % (sentences(text), MAX_SENTENCES))
     try:
         text.encode("utf-8").decode("utf-8")
     except UnicodeError as fault:
